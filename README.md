@@ -38,11 +38,17 @@ Para a criação desse projeto foram desenvolvidas duas classes importantes que 
 Exemplo de execução no console:
 
   ```console
-   Quantos bilhetes deseja criar? 2 Bilhete 1: 3, 15, 22, 28, 35, 42 Bilhete 2: 1, 7, 19, 23, 31, 40
+Quantos bilhetes deseja criar? 2
+
+Bilhete 1: 3, 15, 22, 28, 35, 42 
+Bilhete 2: 1, 7, 19, 23, 31, 40
 
 Números sorteados: 3, 7, 22, 28, 35, 42
 
-Resultados: Bilhete 1: 5 acertos Bilhete 2: 3 acertos
+Resultados: 
+
+Bilhete 1: 5 acertos 
+Bilhete 2: 3 acertos
    ```
 
 ## 💭 Futuras melhorias
