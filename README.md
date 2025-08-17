@@ -1,8 +1,8 @@
-# Simulador de loteria
+# 🎰 Simulador de loteria
 
 Esse projeto se baseia em um simples sistema que simula o funcionamento de uma loteria com um simples algoritmo desenvolvido em Java por meio da orientação a objetos. Esse sisteminha permite com que o usuário possa escolher os números de seus bilhetes e por meio do sorteio observar o seu resultado.
 
-## Estrutura do projeto
+## 🗂 Estrutura do projeto
 
 Para a criação desse projeto foram desenvolvidas duas classes importantes que interagem entre si para que a experiência de simulação seja bem próxima da realidade, sendo elas a classe Bilhete e classe SimuladorLoteria.
 
@@ -10,11 +10,11 @@ Para a criação desse projeto foram desenvolvidas duas classes importantes que 
 
 - SimuladorSorteio: Essa classe será responsável por grande parte das funcionalidades do sistema, pois ela é responsável por obter a quantidade de bilhetes que o usuário deseja, como também os respectivos números escolhidos para casa um Bilhete. Após isso, essa classe realizará um sorteio de alguns números aleatório e com o resultado, irá fazer uma comparação com os bilhetes escolhidos para poder apresentar o resultado obtido pelo usuário.
 
-## Futuras melhorias
+## 💭 Futuras melhorias
 
 Meu objetivo é futuramente adicionar mais funcionalidades a esse pequeno sistema e deixá-lo mais próximo da realidade dos sorteios de loterias, afim de torná-lo um sistema mais completo e poder aplicar novos conhecimentos do Java.
 
-## Como executar
+## ⚙️ Como executar
 
 ### Pré-requisitos
 
@@ -37,3 +37,7 @@ Meu objetivo é futuramente adicionar mais funcionalidades a esse pequeno sistem
    ```bash
    Java SimuladorLoteria.java
    ```
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
